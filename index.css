@@ -1,0 +1,205 @@
+/* last images */
+
+.lastImges {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 20px;
+  column-gap: 20px;
+  width: 900px;
+  margin: 40px 15% 0px 15%;
+}
+
+.cenTex {
+  width: 260px;
+  height: 30px;
+  color: rgb(128, 124, 124);
+  font-size: x-large;
+}
+
+.lasImg1 {
+  align-self: flex-end;
+  width: 260px;
+  height: 290px;
+  background-color: #d1b200;
+  color: white;
+  font-size: x-large;
+  border-radius: 5px;
+}
+.perag1 {
+  padding: 0px 10px 5px 20px;
+}
+.inPera1 {
+  color: black;
+  font-size: medium;
+}
+
+.lasImg2 {
+  width: 260px;
+  height: 290px;
+  background-color: #048eff;
+  color: white;
+  font-size: larger;
+  border-radius: 5px;
+}
+.perag2 {
+  padding: 0px 10px 5px 20px;
+}
+.inPera2 {
+  color: black;
+  font-size: medium;
+}
+
+.lasImg3 {
+  width: 260px;
+  height: 290px;
+  background-color: #8d4fa0;
+  color: white;
+  font-size: larger;
+  border-radius: 5px;
+}
+.perag3 {
+  padding: 0px 10px 5px 20px;
+}
+.inPera3 {
+  color: black;
+  font-size: medium;
+}
+
+.lasImg4 {
+  width: 260px;
+  height: 290px;
+  background-color: #3c8342;
+  color: white;
+  font-size: larger;
+  border-radius: 5px;
+}
+.perag4 {
+  padding: 0px 10px 5px 20px;
+}
+.inPera4 {
+  color: black;
+  font-size: medium;
+}
+
+.lasImg5 {
+  width: 260px;
+  height: 290px;
+  background-color: #ff4d00;
+  color: white;
+  font-size: larger;
+  border-radius: 5px;
+}
+.perag5 {
+  padding: 0px 10px 5px 20px;
+}
+.inPera5 {
+  color: black;
+  font-size: medium;
+}
+
+.lasImg6 {
+  width: 260px;
+  height: 290px;
+  background-color: #cda64c;
+  color: white;
+  font-size: larger;
+  border-radius: 5px;
+}
+.perag6 {
+  padding: 0px 10px 5px 20px;
+}
+.inPera6 {
+  color: black;
+  font-size: medium;
+}
+
+/* footer */
+
+footer{
+    width: 100%;
+    height: 600px;
+    background-color: #292929;
+    color: white;
+}
+
+.email{
+    padding: 15px 190px 0px 10px;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.opt{
+    padding: 10px 100px 10px 10px;
+    border-radius: 10px;
+}
+
+.birth{
+    padding: 15px 3px 0px 10px;
+    border-radius: 10px;
+    font-size: large;
+}
+
+/*  */
+
+.foot1 {
+  display: flex; /* flex for side by side layout */
+  justify-content: center;
+  align-items: flex-start;
+   /* background-color: #222;optional styling */
+  color: white;
+  padding: 20px;
+  gap: 20px; /* space between left and right */
+}
+.left-section{
+  width: 500px;
+}
+
+
+.left-section,
+.right-section {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.left-section textarea,
+.left-section input,
+.left-section select {
+  display: block;
+  /* margin-top: 10px; */
+  width: 100%;
+  max-width: 200px; /* adjust width */
+}
+
+.right-section form label {
+  display: block;
+  /* margin-top: 5px; */
+}
+
+.siUp{
+  padding: 18px 40px;
+  margin-left: 167px;
+  border-radius: 10px;
+  color: white;
+  background-color: #6b6767;
+  font-weight: bold;
+}
+
+.lasMin{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 0px;
+}
+
+.letfSide{
+  width: 200px;
+}
+.center{
+  width: 440px;
+  text-align: center;
+}
+.right{
+  width: 300px;
+}
